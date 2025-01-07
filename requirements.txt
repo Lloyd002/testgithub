@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 pandas 
 pytest
+=======
+pandas 
+pytest
+>>>>>>> ef258b22ffba0716db2056c8909820caba54358a
